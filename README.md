@@ -12,7 +12,7 @@
 const aline = {
   pronouns: "she" | "her",
   code: [Javascript, Typescript, HTML, CSS],
-  tools: [React, Redux, Node, Jest, Docker, MySQL],
+  tools: [React, Redux, Node, Express, Jest, Mocha, Docker, MySQL],
   location: {
     city: "São Paulo",
     state: "São Paulo",
