@@ -9,9 +9,9 @@
 [![GitHub alinegrance](https://img.shields.io/github/followers/alinegrance?label=follow&style=social)](https://github.com/alinegrance)
 
 ```javascript
-const aline = {
+const ALINE = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, HTML, CSS],
+  code: [Javascript, Typescript, Python, Crystal, HTML, CSS],
   tools: [React, Redux, Node, Express, Jest, Mocha, Docker, MySQL],
   location: {
     city: "São Paulo",
