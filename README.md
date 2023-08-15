@@ -11,8 +11,8 @@
 ```javascript
 const ALINE = {
   pronouns: "she" | "her",
-  code: [Javascript, Typescript, Python, Crystal, HTML, CSS],
-  tools: [React, Redux, Node, Express, Jest, Mocha, Docker, MySQL],
+  code: [Javascript, Typescript, Python, Ruby, Crystal, HTML, CSS],
+  tools: [React, Redux, Node, Express, Jest, Mocha, Ruby on Rails, Docker, MySQL],
   location: {
     city: "São Paulo",
     state: "São Paulo",
